@@ -1,6 +1,6 @@
-# Jim Lin
+# Jimmy Lin
 
-**Software Engineer | Cloud & AI Enthusiast | Full-Stack Developer**
+**QA Automation Engineer | Cloud & AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jimlinx-181717?style=flat&logo=github)](https://github.com/jimlinx)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a software engineer with a passion for building scalable systems and exploring cutting-edge AI technologies. My expertise spans full-stack development, cloud infrastructure, and system automation. I'm particularly interested in integrating large language models into production environments to solve real-world problems.
+I'm a QA automation engineer with interests in developing small tools.
 
 Currently exploring opportunities with **Claude on Google Vertex AI Model Garden** to build intelligent applications that leverage state-of-the-art AI capabilities in enterprise cloud environments.
 
@@ -123,52 +123,6 @@ Contributing to a cross-platform desktop software suite that streamlines applica
 
 **Tech Stack**: Multi-language (Bash, Python, JavaScript)
 **Focus**: System automation, cross-platform compatibility, user experience
-
----
-
-## Why Claude on Vertex AI?
-
-I'm applying for access to **Claude models on Google Vertex AI Model Garden** to build the next generation of intelligent automation tools:
-
-### Planned Use Cases
-
-1. **Intelligent Cloud Cost Optimization**
-   - Extend my existing GCS management tool with Claude's reasoning capabilities
-   - AI-powered analysis of usage patterns to predict optimal retention policies
-   - Natural language queries for cloud resource analysis and recommendations
-
-2. **Automated Compliance & Regulatory Updates**
-   - Leverage Claude to monitor and interpret ATO regulation changes
-   - Automatic payroll calculation updates based on new tax legislation
-   - AI-assisted compliance reporting and audit trail generation
-
-3. **Smart Lead Intelligence System**
-   - Enhance email automation with Claude's natural language understanding
-   - Personalized outreach generation based on lead profiles
-   - Intelligent email response categorization and routing
-
-4. **Enterprise Integration & Scalability**
-   - Deploy AI capabilities within existing Google Cloud infrastructure
-   - Meet enterprise data residency and privacy requirements
-   - Scale AI-powered features across production environments
-
-5. **Advanced Code Analysis & Documentation**
-   - Automated code review and optimization suggestions
-   - Intelligent documentation generation for legacy systems
-   - Natural language to SQL/API query translation
-
-6. **Intelligent Mobile App Features**
-   - Natural language activity creation for Frog Life Android app
-   - AI-powered insights and recommendations based on activity patterns
-   - Smart scheduling suggestions using behavioral analysis
-   - Conversational interface for data queries and reporting
-
-### Why Google Vertex AI?
-
-- **Existing GCP Integration**: Already managing cloud infrastructure on GCP
-- **Enterprise Security**: Compliance with data governance requirements
-- **Production-Ready**: Seamless integration with existing microservices architecture
-- **Cost Management**: Unified billing and resource optimization across GCP services
 
 ---
 
